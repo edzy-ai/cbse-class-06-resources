@@ -1,0 +1,18 @@
+# ChatGPT Prompts – Chapter 2: Lines and Angles
+
+Use these prompts to study **Chapter 2: Lines and Angles** from **Book 1: Ganita Prakash** better.
+
+## Concept Learning
+Teach me Lines and Angles like a patient tutor for Class 6.
+
+## Practice Questions
+Create 5 exam-style questions from Lines and Angles with answers.
+
+## Revision
+Ask me quick revision questions from Lines and Angles one by one.
+
+## Find My Mistake
+I solved a question from Lines and Angles incorrectly. Help me identify my mistake and explain the correct method.
+
+## Exam Prep
+What are the most important concepts and question types from Lines and Angles for Class 6 exams?
